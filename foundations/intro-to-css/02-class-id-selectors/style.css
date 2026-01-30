@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightcoral;
+    font-family: "verdana", DejaVu Sans, sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+.cooler {
+    font-size: 24px;
+}

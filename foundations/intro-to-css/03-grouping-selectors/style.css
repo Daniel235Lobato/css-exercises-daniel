@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.noclickbtn {
+background-color: yellow;
+}
+
+.clickbtn{
+background-color: black;
+color: white;
+}
+
+.clickbtn, .noclickbtn{
+    font-size: 28px;
+    font-family: "helvetica", 'Times New Roman', 'san-serif';
+}
